@@ -1,4 +1,4 @@
-# [Hermes The Quizzer](https://hermes-quizzer.vercel.app) ⚡
+# [Hermes The Quizzer](https://quiz.bchbenjamin.in/) ⚡
 
 A modern MCQ practice platform built with React.js and Express.js, featuring Material Design Expressive purple theme.
 
